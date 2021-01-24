@@ -2,11 +2,11 @@
 const help = (prefix) => { 
 	return `                 
 <══════════════════════>
-      BOT BY ARR157 - BOT
+      BOT BY LXNOX_GUILHERME - BOT
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   Author:BRUXINHO MODS 
+__█▄█████▄█   Author:GUILHERME (LXNOX) 
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ4.0██▌ 
 __█▲▲▲▲▲█ 
@@ -176,7 +176,7 @@ ____██_____██
 ║├────> troca sigla de comandos
 ║└─────────────────────
 ╚══════════════════════
-    ╲    ╱    ●ARR157●BOT●
+    ╲    ╱    ●GUILHERME_LXNOX●BOT●
        ╱▔▔▔▔▔╲       
       ┃┈▇┈┈▇┈┃      
 ╭╮┣━━━━━━┫╭╮    
@@ -185,7 +185,7 @@ ____██_____██
       ╰┓┏━━┓┏╯
          ╰╯      ╰╯
 ┌─────────4.0────────┐
-      BRUXINHO MODS   
+      GUILHERME (LXNOX)   
 └─────────4.0────────┘
 
 `
